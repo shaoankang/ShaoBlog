@@ -28,4 +28,16 @@
     <url>%2F2019%2F09%2F21%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
+  <entry>
+    <title><![CDATA[开学的小冲动就是见你]]></title>
+    <url>%2F2019%2F09%2F01%2FLover1%2F</url>
+    <content type="text"><![CDATA[​ 原来读到鲁迅先生的文章，有个驿站叫日暮里。假期的憧憬以为可以很快就能见到你，很期待那个小刚牙的你啊，臭小猪。 ​ 当然很长时间没法接吻真得对我来说无疑是个漫长得等待。如果可以，我想要带你去到那个地方，和你走过漫漫长夜，天色露白时交换一个亲吻，然后写下：我在日暮里想念每个清晨的吻。就像是说我在所有老去的时光里，热爱天真又温柔的你。]]></content>
+      <categories>
+        <category>爱情小故事</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>思考人生</tag>
+      </tags>
+  </entry>
 </search>
