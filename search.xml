@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[UML课程整理（1）]]></title>
+    <url>%2F2019%2F09%2F22%2FUML%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86%EF%BC%881%EF%BC%89%2F</url>
+    <content type="text"><![CDATA[第二章1.UML概述1.1概念：​ UML，Unified Modeling Language, 统一建模语言,是软件和系统开发的标准建模语言，他主要是以图形的方式对系统进行分析、设计. 1.2为什么要建模 因为不能完整的完整的理解一个系统，所以要建模 建模是未了更好的理解正在开发的系统 建模的目的 系统可视化 ​ 详细的说明系统的结构和行为 ​ 给出一个构造系统的模板 ​ 对决策文档化 1.3建模的原则​ 1.确定选择什么样的模型 ​ 2.考虑模型在不同精度上的表示 ​ 3.最好的模型是与现实相关联的，模型是对现实的简化，但简化不能漏掉任何重要的细节 ​ 4.单个模型是不充分的，一个重要的系统是由几个相对独立的模型去处理。（盲人摸象） 1.4UML的组成与介绍 1. 2.UML 不是开发工具，而是建模语言 3.UML 图细分：一类是静态图，一类是动态图。（1）静态图：用例图、类图、对象图、组件图和部署图；（2）动态图：顺序图、协作图、状态图和活动图。 4.常见的图包括什么： 类图（class Diagram）：描述类的信息（属性和方法），以及类和类之间的关系信息 用例图（user case Diagram）：站在系统用户和系统角色的角度分析系统存在哪些功能。 时序图（sequence Diagram）：描述程序的执行过程，方法的调用工程，方法返回值的信息。（即程序是如何一步一步的执行的，调用的。） 状态图 活动图]]></content>
+      <categories>
+        <category>UML</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>UML</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[计算机组成原理（1）]]></title>
+    <url>%2F2019%2F09%2F22%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%EF%BC%881%EF%BC%89%2F</url>
+    <content type="text"><![CDATA[存储器和CPU的连接]]></content>
+      <categories>
+        <category>课程笔记</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F09%2F21%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
